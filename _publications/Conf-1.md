@@ -4,9 +4,12 @@ collection: publications
 permalink: /publication/Conf-1
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2017-10-01
-venue: 'Journal 1'
+venue: 'AUVSI Foundation'
 # paperurl: 'http://www.aerialroboticscompetition.org/assets/downloads/2017SymposiumPapers/BirlaInstituteofTechnologyandSciencePilani.pdf'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
+
 ---
 
 
