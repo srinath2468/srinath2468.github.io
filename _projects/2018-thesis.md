@@ -24,7 +24,7 @@ Pose estimation is one of the most basic steps when interfacing a camera with re
 ---
 10 waypoints were chosen for calibration such that they spanned toward the extreme points of the camera’s view.
 
-![Waypoints](/images/RobotPoses.png)
+![Waypoints](/images/RobotPoses.PNG)
 
 **Position of Camera**
 
@@ -36,12 +36,12 @@ The minimum distance for the camera to produce a good and stable point cloud was
 The camera was placed on a tripod with an angle of 30 deg.
 
 
-![Experiment Setup](/images/experimentSetup.png )
+![Experiment Setup](/images/experimentSetup.PNG )
 
 
 **Method Workflow**
 
-![Method](https://srinath2468.github.io/images/method.png "Method")
+![Method](https://srinath2468.github.io/images/method.PNG)
 
 
 ### Results
