@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Unmanned Aerial Vehicle of Team IFOR for the IARC 2017"
 collection: publications
 permalink: /publication/Conf-1
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
