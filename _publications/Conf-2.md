@@ -5,8 +5,8 @@ permalink: /publication/Conf-2
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-06-06
 venue: '2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS)'
-paperurl: 'https://ieeexplore.ieee.org/document/8466525'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# paperurl: 'https://ieeexplore.ieee.org/document/8466525'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/8466525)

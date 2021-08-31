@@ -5,7 +5,7 @@ permalink: /publication/Journal-1
 excerpt: ''
 date: 2018-09-01
 venue: ' IJNDC(International Journal of Networked and Distributed Computing)'
-paperurl: 'https://doi.org/10.2991/ijndc.2018.6.4.4'
+# paperurl: 'https://doi.org/10.2991/ijndc.2018.6.4.4'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
