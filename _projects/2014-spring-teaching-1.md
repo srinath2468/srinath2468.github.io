@@ -1,13 +1,17 @@
 ---
 title: "Comparison OF 2D-3D Point Correspondences"
 collection: projects
-type: "Master's Thesis"
+type: "Undergraduate course"
 permalink: /projects/2014-spring-teaching-1
-venue: "NTU, EEE"
-# date: 2014-01-01
-# location: "City, Country"
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+
+---
 
 ### Link to Code:
+
+---
 
 [Code](https://github.com/srinath2468/Pose-estimation-comparison)
 
