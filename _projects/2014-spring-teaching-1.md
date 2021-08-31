@@ -2,10 +2,10 @@
 title: "Accuracy comparison of 2d- 3d point correspondences"
 collection: projects
 type: "Master's Thesis"
-permalink: /projects/2014-spring-teaching-1
+permalink: /projects/thesis
 venue: "Nanyang Technological University"
-date: 2014-01-09
-location: "City, Country"
+date: 2018-06-09
+location: "Singapore"
 ---
 
 ### Abstract
