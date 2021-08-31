@@ -38,7 +38,7 @@ The camera was placed on a tripod with an angle of 30 deg.
 ![Experiment Setup](https://srinath2468.github.io/images/experimentSetup.png "Setup")
 
 
-**Method Workflow***
+**Method Workflow**
 
 ![Method](https://srinath2468.github.io/images/method.png "Method")
 
