@@ -13,7 +13,10 @@ Welcome
 ======
 Hey! Welcome to my website. 
 
-I currently work as an embedded computer vision developer at Iko, a skin imaging solutions company working on the detection of melanoma(skin cancer).
+I currently work as an embedded computer vision developer at Iko, a skin imaging solutions company specialising in the detection of melanoma(skin cancer).
+
+CV : [Download](http://academicpages.github.io/files/Resume.pdf)
+
 
 
 
