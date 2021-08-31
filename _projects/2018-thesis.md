@@ -2,13 +2,18 @@
 title: "Accuracy comparison of 2d- 3d point correspondences"
 collection: projects
 type: "Master's Thesis"
-permalink: /projects/thesis
+permalink: /projects/2018-thesis
 venue: "Nanyang Technological University"
 date: 2018-06-09
 location: "Singapore"
+
 ---
 
+
+
+
 ### Abstract
+
 ---
 
 Pose estimation is one of the most basic steps when interfacing a camera with respect to the world. It has seen an increase in usage with the development of autonomy across various fields, mainly robotics. This thesis proposes to compare the various 2d-3d point correspondence methods for pose estimation available to us using three different conditions: distance from camera, resolution and pattern used. There is no documentation available today that describes which pattern, distance and algorithm configuration gives us the best results possible.
