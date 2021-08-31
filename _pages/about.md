@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Srinath H Rao"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
