@@ -2,7 +2,7 @@
 title: "Checkerboard detector (CUDA)"
 collection: projects
 type: ""
-permalink: /projects/checkerboard
+permalink: /projects/Checkerboard
 venue: "Iko"
 date: 2020-06-09
 location: "Singapore"
