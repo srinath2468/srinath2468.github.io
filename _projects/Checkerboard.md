@@ -1,11 +1,11 @@
 ---
 title: "Checkerboard detector (CUDA)"
 collection: projects
-type: ""
+# type: ""
 permalink: /projects/Checkerboard
-venue: "Iko"
-date: 2020-06-09
-location: "Singapore"
+# venue: "Iko"
+# date: 2020-06-09
+# location: "Singapore"
 
 ---
 
