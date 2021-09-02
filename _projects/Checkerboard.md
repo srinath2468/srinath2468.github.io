@@ -12,7 +12,7 @@ permalink: /projects/Checkerboard
 
 ---
 
-[Link to Code](https://github.com/srinath2468/Pose-estimation-comparison.git)
+[Link to Code](https://github.com/srinath2468/CUDA-checkerboard-detector.git)
 
 ---
 
